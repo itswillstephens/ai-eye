@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+body {
+    background-color: #23120B; 
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+    z-index: -1;
+}
+
+#woke-eye {
+    visibility: hidden;
+}
